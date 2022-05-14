@@ -1,0 +1,5 @@
+# CSC-151
+Projects completed in CSC-151 Java Programming at Wake Tech
+
+All projects were created using Eclipse IDE for Java developers.
+Projects can be found as individual packages within the src directory.
